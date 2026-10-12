@@ -1,6 +1,6 @@
 # ASCII Art Generator
 
-A Python image-to-ASCII art converter that transforms images and videos into text-based artwork directly in the terminal.
+A Python image and video-to-ASCII art converter that transforms images and videos into text-based artwork directly in the terminal.
 
 Supports multiple rendering styles, high-detail Unicode Braille characters, full RGB color rendering, and export options for both images and videos.
 
